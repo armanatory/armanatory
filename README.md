@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **armanatory/armanatory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+[![An image of @armanatory's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/armanatory)](https://holopin.io/@armanatory)

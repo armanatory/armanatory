@@ -8,4 +8,5 @@
 
 
 [![An image of @armanatory's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/armanatory)](https://holopin.io/@armanatory)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9c0f033c-5a1a-4328-858b-1c07b555d2e2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Deploy and adopt Microsoft 365 Copilot + Agents](https://images.credly.com/size/340x340/images/8d212736-a0ab-4efa-841a-ab48707cc8b9/blob)](https://www.credly.com/badges/9c0f033c-5a1a-4328-858b-1c07b555d2e2/")
+
